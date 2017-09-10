@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface%7CRaleway');
 
+.App {
+  text-align: center;
+}
+
 .topPic {
 	width: 90%;
 	margin-bottom: 20px;
