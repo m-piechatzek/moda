@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Raleway');
+
+#headShot {
+    height: 200px;
+    width: 220px;
+    margin-top: 90px;
+    border: 3px #828282;
+    border-radius: 10px;
+}
+
+#blog, #blog2, .post-image {
+    width: 35%;
+    min-width: 500px;
+    margin-top: 50px;
+}
+
+h1 {
+    font-family: 'Raleway', monospace;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #232323;
+}
+
+hr {
+    width: 35%;
+    border: 0;
+    background-color: #e5e5e5;
+    height: 2px;
+    min-width: 500px;
+}
+
+table {
+   margin-left: auto;
+   margin-right: auto;
+}
+td {
+    font-family: 'Raleway', monospace;
+    letter-spacing: 1px;
+    padding: 30px;
+    font-size: 18px;
+}
+
+p {
+    font-family: 'Raleway', monospace;
+    letter-spacing: 1px;
+    font-size: 18px;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-width: 500px;
+    color: #232323;
+}
+
+h2 {
+    font-family: 'Abril Fatface', monospace;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: #232323;
+    margin-top: -5px;
+    margin-bottom: -20px;
+}
+
+.link-profile:link, .link-profile:visited, .link-profile:active {
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+.link-profile:hover {
+    text-decoration: none;
+    font-variant: small-caps;
+    color: #232323;
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}

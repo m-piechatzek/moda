@@ -1,0 +1,16 @@
+
+.blog-size {
+  width: 350px;
+  height: 550px;
+  filter: grayscale(0%);
+  transition: all 0.7s ease;
+  border: 1px solid #CCC;
+  margin: 1px;
+}
+
+.blog-size:hover {
+  filter: grayscale(100%);
+  transition: all 0.7s ease;
+  border: 1px solid #000;
+  margin: 1px;
+}
