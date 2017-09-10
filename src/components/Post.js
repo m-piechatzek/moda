@@ -4,27 +4,39 @@ import './Post.css';
 const Post = () => {
   return (
 	<div id="pageBody">
-		<a className="pure-button" href="#">Back</a>
+		<div className="spacer"></div>
+		<a className="backButton" href="#">BACK</a>
 		<img className="topPic pure-img" src="/images/lehappy1.jpg" alt="Le Happy 1"></img>
 		<div className="midText">
-			Nōn vereor nē mihi aliquid, iūdicēs, videar adrogāre, sī dē quaestūrā meā dixerō. quamvīs enim illa flōruerit, 
-			tamen eum mē posteā fuisse in maximīs imperiīs arbitror ut nōn ita multum mihi glōriae sit ex quaestūrae laude 
-			repetendum. sed tamen nōn vereor nē quis audeat dīcere ullīus in Siciliā quaestūram aut clāriōrem aut grātiōrem 
-			fuisse. vērē mē hercule hōc dīcam: sīc tum existimābam, nihil hominēs aliud Rōmae nisi dē quaestūrā meā loquī. 
-			frūmentī in summā cāritāte maximum numerum mīseram; negōtiātōribus cōmis, mercātōribus iustus, mancipibus 
-			līberālis, sociīs abstinens, omnibus eram vīsus in omnī officiō dīligentissimus; excōgitātī quīdam erant ā 
-			Siculīs honōrēs in mē inaudītī. itaque hāc spē dēcēdēbam ut mihi populum Rōmānum ultrō omnia dēlātūrum putārem. 
-			at ego cum cāsū diēbus eīs itineris faciendī causā dēcēdens ē prōvinciā Puteolōs forte vēnissem, cum plūrimī et 
-			lautissimī in hīs locīs solent esse, concidī paene, iūdicēs, cum ex mē quīdam quaesisset quō diē Rōmā exissem et 
-			num quidnam esset novī. cui cum respondissem mē dē prōvinciā dēcēdere "etiam mē hercule" inquit, "ut opīnor, ex 
-			Africā". huic ego iam stomachans fastīdiōsē "immō ex Siciliā" inquam. tum quīdam, quasi quī omnia scīret "quid? 
-			tū nescīs" inquit "hunc quaestōrem Syrācūsīs fuisse?" quid multa? destitī stomachārī et mē ūnum ex eīs fēcī quī 
-			ad aquās vēnissent.
+			<h1>I can see through you</h1>
+			
+			Back in the days, I would shoot my blog outfits on a white plain wall making sure the outfit was the only subject. 
+			Its the way I started this blog and I honestly really loved sharing my looks that way!  This shoot with Christina at 
+			her studio reminds me of those posts I used to do and I forgot how much I loved it 
+			
 		</div>
-		<div className="sidePics">
-			<img className="twoPic pure-img" src="/images/lehappy2.jpg" alt="Le Happy 2"></img>
-			<img className="twoPic pure-img" src="/images/lehappy3.jpg" alt="Le Happy 3"></img>
+		<img className="topPic pure-img" src="/images/lehappymerged.jpg" alt="Le Happy 1"></img>
+		<div className="midText">
+			<h1>Some days are just meant for the park</h1>
+			
+			This is one of my favorite outfits involving vintage so far.  I was wearing a vintage sheer dress I got from etsy 
+			and layered it with a mesh white top and wore some shorts underneath.Layering prints can be quite tricky but it is 
+			all about the textures and making sure they blend well together. I definitely will be wearing a lot of mesh this 
+			fall (its currently a major trend) but I won’t be limiting myself to wearing it just as a top! It can be so fun to 
+			wear it under any other piece, particularly a nice printed dress or a vintage t-shirt.
+			
 		</div>
+		<img className="topPic pure-img" src="/images/lehappy4.jpg" alt="Le Happy 1"></img>
+		<div className="midText">
+			<h1>I wanna be sedated</h1>
+			
+			One of those outfits that were totally a no brainer today. Whenever I get anything plaid, I feel the urge of going 
+			back to my roots haha and pair it with a band tee lol. Such a cliche/ overused / extra and expected combo but I 
+			can’t control myself. I’ve had this Ramones tee for so long, so it felt quite good to take it out for a walk! 
+			
+		</div>
+		
+		<div className="spacer"></div>
 	</div>
   )
 }
