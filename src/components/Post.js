@@ -5,8 +5,8 @@ const Post = () => {
   return (
 	<div id="pageBody">
 		<div className="spacer"></div>
-		<a className="backButton" href="#">BACK</a>
-		<img className="topPic pure-img" src="/images/lehappy1.jpg" alt="Le Happy 1"></img>
+		<a className="backButton" href="/">BACK</a>
+		<img className="topPic pure-img" src="/images/lehappy1.jpg" alt="Le Happy 1" />
 		<div className="midText">
 			<h1>I can see through you</h1>
 			
@@ -15,7 +15,7 @@ const Post = () => {
 			her studio reminds me of those posts I used to do and I forgot how much I loved it 
 			
 		</div>
-		<img className="topPic pure-img" src="/images/lehappymerged.jpg" alt="Le Happy 1"></img>
+		<img className="topPic pure-img" src="/images/lehappymerged.jpg" alt="Le Happy 1" />
 		<div className="midText">
 			<h1>Some days are just meant for the park</h1>
 			
@@ -26,12 +26,12 @@ const Post = () => {
 			wear it under any other piece, particularly a nice printed dress or a vintage t-shirt.
 			
 		</div>
-		<img className="topPic pure-img" src="/images/lehappy4.jpg" alt="Le Happy 1"></img>
+		<img className="topPic pure-img" src="/images/lehappy4.jpg" alt="Le Happy 1" />
 		<div className="midText">
 			<h1>I wanna be sedated</h1>
 			
 			One of those outfits that were totally a no brainer today. Whenever I get anything plaid, I feel the urge of going 
-			back to my roots haha and pair it with a band tee lol. Such a cliche/ overused / extra and expected combo but I 
+			back to my roots haha and pair it with a band tee lol. Such a cliche overused extra and expected combo but I 
 			can’t control myself. I’ve had this Ramones tee for so long, so it felt quite good to take it out for a walk! 
 			
 		</div>
