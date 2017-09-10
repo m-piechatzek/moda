@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Raleway');
-
+.App {
+  text-align: center;
+}
 #headShot {
     height: 200px;
     width: 220px;
