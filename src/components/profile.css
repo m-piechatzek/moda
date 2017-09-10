@@ -8,8 +8,7 @@
     border-radius: 10px;
 }
 
-#blog, #blog2 {
-    /*height: 850px;*/
+#blog, #blog2, .post-image {
     width: 35%;
     min-width: 500px;
     margin-top: 50px;

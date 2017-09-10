@@ -5,6 +5,8 @@ import './App.css';
 import Feed from './components/Feed'
 import Profile from './components/Profile'
 import Post from './components/Post'
+import Post2 from './components/Post2'
+
 
 class App extends Component {
   render() {
@@ -28,8 +30,9 @@ class App extends Component {
 
         <Switch>
           <Route exact path="/" component={Feed} />
-          <Route exact path="/Profile" component={Profile} />
           <Route exact path="/post" component={Post} />
+          <Route exact path="/profile" component={Profile} />
+          <Route exact path="/post/2" component={Post2} />
 
         </Switch>
       </div>
