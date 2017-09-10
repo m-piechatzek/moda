@@ -4,6 +4,7 @@ import logo from './logo.svg';
 import './App.css';
 import Feed from './components/Feed'
 import Profile from './components/Profile'
+import Post from './components/Post'
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
         <Switch>
           <Route exact path="/" component={Feed} />
           <Route exact path="/Profile" component={Profile} />
+          <Route exact path="/post" component={Post} />
         </Switch>
       </div>
     );
