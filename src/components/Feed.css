@@ -1,5 +1,5 @@
 .custom-menu-wrapper {
-      background-color: #808080;
+      background-color: #000000;
       margin-bottom: 2.5em;
       white-space: nowrap;
       position: relative;
@@ -14,7 +14,7 @@
 
   .custom-menu .pure-menu-link,
   .custom-menu .pure-menu-heading {
-      color: black;
+      color: white;
   }
 
   .custom-menu .pure-menu-link:hover,
@@ -98,6 +98,18 @@
       -moz-transform: translateY(-44px);
       -ms-transform: translateY(-44px);
       transform: translateY(-44px);
+  }
+
+  .fa-float {
+    position: fixed;
+    top: 2em;
+     right: 2em;
+/*display: inline-block;*/
+
+  }
+  .logo-size {
+    width: 80px;
+    height: 80px;
   }
 
   @media (max-width: 62em) {
