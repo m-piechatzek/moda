@@ -60,7 +60,7 @@ const Profile = () => {
                          the many off the shoulder tops already in my closet — cause how many
                          is too many, really?
                       </p>
-                      <a className="link-profile" href="full-post.js">read more</a>
+                      <a className="link-profile" href="/post2">read more</a>
 
                    </div>
                 </div>
@@ -74,7 +74,7 @@ const Profile = () => {
                       he’s dedicated many a weekend or vacation day to getting the perfect shot.
                       When Fossil asked me to try out their new hybrid smartwatch, I immediately new
                       I had to ask if Shola could try one out too.</p>
-                      <a className="link-profile" href="full-post.js">read more</a>
+                      <a className="link-profile" href="/post2">read more</a>
                    </div>
                 </div>
 
@@ -85,7 +85,7 @@ const Profile = () => {
                         <p>I had so much fun hosting LOFT’s first 97 Days of Summer in-store event
                         this past Friday in NYC. I was all ruffles and smiles in a one shoulder blouse
                         and wrap skirt.</p>
-                        <a className="link-profile" href="full-post.js">read more</a>
+                      <a className="link-profile" href="/post2">read more</a>
                      </div>
                   </div>
            </div>
