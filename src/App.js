@@ -6,6 +6,7 @@ import Feed from './components/Feed'
 import Profile from './components/Profile'
 import Post from './components/Post'
 import Post2 from './components/Post2'
+import Post3 from './components/Post3'
 
 
 class App extends Component {
@@ -33,6 +34,7 @@ class App extends Component {
           <Route exact path="/post" component={Post} />
           <Route exact path="/profile" component={Profile} />
           <Route exact path="/post2" component={Post2} />
+          <Route exact path="/post3" component={Post3} />
 
         </Switch>
       </div>
