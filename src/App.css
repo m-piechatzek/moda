@@ -124,6 +124,7 @@
     height: 110px;
     position: fixed;
     top: 0;
+    z-index: 10000;
   }
 
 /*Empty DIV to stop images and all other elements from going under the header*/
