@@ -10,12 +10,12 @@ const Post2 = () => {
           <h2>Oversized Sleeves</h2>
         <br/>
 
-            <div classname="grids-example">
-               <div classname="pure-g">
+      <div className="grids-example">
+               <div className="pure-g">
 
 
 
-                  <div classname = "pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+                  <div className = "pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
                      <div className = "graybox">
                         <p>
                            Here’s my look from the recent Anthropologie rooftop

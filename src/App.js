@@ -32,7 +32,7 @@ class App extends Component {
           <Route exact path="/" component={Feed} />
           <Route exact path="/post" component={Post} />
           <Route exact path="/profile" component={Profile} />
-          <Route exact path="/post/2" component={Post2} />
+          <Route exact path="/post2" component={Post2} />
 
         </Switch>
       </div>
