@@ -19,7 +19,7 @@ const Feed = () => {
           </div>
       </div>
 
-      <p>feed</p>
+      <img className="" src={"/images/blog_color1.png"} />
 
     </div>
 
