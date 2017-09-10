@@ -10,16 +10,15 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
+
         </div>
 
         <Switch>
           <Route exact path="/" component={Feed} />
-          <Route exact path="/Profile" component={Profile} />
+          <Route exact path="/profile" component={Profile} />
         </Switch>
       </div>
-    );
+      );
   }
 }
 
